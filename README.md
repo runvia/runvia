@@ -1,14 +1,11 @@
 # 👋 Hi, I'm Runvia
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on building tools and workflows with Python, Docker, and automation.
 - 🌱 I’m currently learning more about AI/ML, advanced Django architecture, and Traefik.
 - 👯 I’m looking to collaborate on Python-based projects, especially those involving automation or machine learning.
 - 🤔 I’m looking for help with building scalable, production-ready AI pipelines.
 - 💬 Ask me about Python, Django, deployment strategies, or self-hosted tools.
-- 📫 How to reach me: hello@runvia.dev
-- 😄 Pronouns: he/him
+- 📫 How to reach me: contact@runvia.dev
 - ⚡ Fun fact: I love mixing tech and creativity – building clean systems that run themselves is my kind of magic.
 
 ---
